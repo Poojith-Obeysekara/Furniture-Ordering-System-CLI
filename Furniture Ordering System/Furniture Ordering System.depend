@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1633063533 source:e:\c++\furniture ordering system\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<fstream>
+

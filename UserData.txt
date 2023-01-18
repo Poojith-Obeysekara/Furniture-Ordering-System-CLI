@@ -1,0 +1,41 @@
+Usernames and Passwords of users of the Furniture Ordering System
+=====================================================================
+
+*All Administrators*
+
+Username : Admin
+Password : Admin321
+
+======================================================================
+
+*Users list*
+
+1) Mr.Thomas Smith 
+
+Username : Thomas
+Password : 456
+
+2) Mr.Adam Williams
+
+Username : Adam
+Password : 789
+
+3) Mrs.Anna Johnson 
+
+Username : Anna
+Password : 654
+
+4) Ms.Olivia White
+
+Username : Olivia
+Password : 102
+
+5) Mr.James Buffer
+
+Username : James
+Password : 567
+
+
+======================================================================
+
+
